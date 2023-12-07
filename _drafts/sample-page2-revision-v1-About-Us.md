@@ -1,0 +1,33 @@
+---
+id: 175
+title: 'About Us'
+date: '2023-12-05T16:20:00+00:00'
+author: BobNewhart
+layout: revision
+guid: 'https://2learnwp.brookhavencollege.edu/BobNewhart/?p=175'
+permalink: '/?p=175'
+---
+
+## Background of My Education
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center has-background" style="background-color:#f1f5c7"><div class="wp-block-media-text__content"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em">I started learning Information technology in June 2019 at Dallas College as a Computer Sciences student after I took more than half of its course I decided to change my field as a Web Developer, so now I am taking a Web Design Tools class as a part of it.
+
+</div></div><figure class="wp-block-media-text__media">![](https://s.w.org/patterns/files/2021/06/pear-1-1024x1024.png)</figure></div><div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center has-background" style="background-color:#fffdea"><figure class="wp-block-media-text__media">![](https://s.w.org/patterns/files/2021/06/pear-half-1024x1024.png)</figure><div class="wp-block-media-text__content"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow" style="padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em">I took some Computer science courses online from SimplyLearn company that helped me with what developing a web means, and I began coding some HTML, java, Spring Boot, and angular in a very short period, so now I have an idea about information technology.
+
+</div></div></div>## Helpful Online Resources
+
+<div class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-layout-79 wp-block-columns-is-layout-flex"><div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%"><div class="wp-block-cover is-light" style="min-height:600px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#f6f6f6"></span>![](https://2learnwp.brookhavencollege.edu/BobNewhart/wp-content/uploads/2023/12/comp-1.png)<div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow"></div></div></div><div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="padding-top:1em;padding-right:1em;padding-bottom:1em;padding-left:1em"><div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-78 wp-block-columns-is-layout-flex"><div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:320px">## Online Computer class
+
+I took many online courses in a very short period, and many numbers of courses when I learned Web Design Tools, I realized that taking courses in our college is better, and I wish those courses were in our college because in college we can ask questions the one it confused us and get help easily, so I learn many things from this class: such as some ready libraries w3 Schools, w3.css or bootstrap to make easy our work, and how to arrange files, writing the code, checking it on Validator for error, using FileZilla server, creating GitHub repository and upload the file, using pictures as favicon, logo, and card, lists, forms, WordPress to create a web page, installing and customizing themes, saving backup files, install plugins, and adding pages with nav menu, links, header, footer and insert images on the web site so those all help me to develop my web pages look nice.
+
+</div></div></div></div><div class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-layout-81 wp-block-columns-is-layout-flex"><div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%"><div class="wp-block-cover is-light" style="min-height:600px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#f6f6f6"></span><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow"><figure class="wp-block-image aligncenter size-full">![](https://2learnwp.brookhavencollege.edu/BobNewhart/wp-content/uploads/2023/12/dallasc.png)</figure></div></div></div><div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="padding-top:1em;padding-right:1em;padding-bottom:1em;padding-left:1em"><div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-80 wp-block-columns-is-layout-flex"><div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:320px">In addition, this course is required for my field after I finish this class, I have some other courses to get my Associate Degree. In this course, I improved my confidence to create web pages, when I get more practice on this part, I will easily create my favorite one.
+
+</div></div></div></div><div class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-layout-83 wp-block-columns-is-layout-flex"><div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%"><div class="wp-block-cover is-light" style="min-height:600px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#f6f6f6"></span><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow"><figure class="wp-block-image aligncenter size-medium">![](https://2learnwp.brookhavencollege.edu/BobNewhart/wp-content/uploads/2023/12/Collegecertficate-300x202.png)</figure></div></div></div><div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="padding-top:1em;padding-right:1em;padding-bottom:1em;padding-left:1em"><div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-82 wp-block-columns-is-layout-flex"><div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:320px">Finally, I learned more tools to create a website and how to use them and share them with others, working on it and updating it, moving files from one part to another.
+
+</div></div></div></div>  
+  
++
+
+> People with a sense of humor tend to be less egocentric and more realistic in their view of the world and more humble in moments of success and less defeated in times of travail.
+> 
+> [Bob Newhart](https://www.brainyquote.com/authors/bob-newhart-quotes)
